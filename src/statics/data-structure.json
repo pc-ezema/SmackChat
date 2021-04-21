@@ -1,0 +1,40 @@
+{
+  "chats" : {
+    "oc83Zped1IUsnK6G0AXx5rHbnz03" : {
+      "JGADeKgZi0fNKkq371lKV9NN9Ep2" : {
+        "MESSAGEID1" : {
+          "from" : "them",
+          "text" : "Hi how are you?"
+        },
+        "MESSAGEID2" : {
+          "from" : "me",
+          "text" : "Good thanks, how are you?"
+        }
+      }
+    },
+    "JGADeKgZi0fNKkq371lKV9NN9Ep2" : {
+      "oc83Zped1IUsnK6G0AXx5rHbnz03" : {
+        "MESSAGEID1" : {
+          "from" : "me",
+          "text" : "Hi how are you?"
+        },
+        "MESSAGEID2" : {
+          "from" : "them",
+          "text" : "Good thanks, how are you?"
+        }
+      }
+    }
+  },
+  "users" : {
+    "JGADeKgZi0fNKkq371lKV9NN9Ep2" : {
+      "email" : "man@gmail.com",
+      "name" : "man",
+      "online" : false
+    },
+    "oc83Zped1IUsnK6G0AXx5rHbnz03" : {
+      "email" : "promise@gmail.com",
+      "name" : "Promise",
+      "online" : false
+    }
+  }
+}
